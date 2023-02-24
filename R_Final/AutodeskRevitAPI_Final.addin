@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\AutodeskRevitAPI_Final.dll"</Assembly>
+		<AddInId>84F502D2-60D7-41E1-A2B4-5B66B65CCBA9</AddInId>
+		<FullClassName>AutodeskRevitAPI_Final.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Расстановка марок помещений</Text>
+	</AddIn>
+</RevitAddIns>
+
